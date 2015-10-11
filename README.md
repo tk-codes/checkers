@@ -14,9 +14,9 @@ Peer-to-Peer Gaming with Java Networking (Socket Programming)
 
 ## How to get started
 ###1. Server Configuration
-```
-Checkers - Server \resources\config.properties
-```
+
+> **Checkers - Server \resources\config.properties**
+
 set the TCP port
 ```
 port = 50800
@@ -28,9 +28,9 @@ Checkers - Server \src\ServerMain.java
 ```
 
 ###2. Client Configuration
-```
-Checkers - Client \resources\config.properties
-```
+
+> **Checkers - Client \resources\config.properties**
+
 set the server ip address and tcp port
 ```
 server=127.0.0.1
@@ -41,5 +41,5 @@ start the client application
 ```
 Checkers - Client \src\ClientMain.java
 ```
-
+![Play](coming soon)
 
