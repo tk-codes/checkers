@@ -45,3 +45,6 @@ Checkers - Client \src\ClientMain.java
 ## GUI - Client (Player)
 ![Play](https://github.com/tk-codes/checkers/blob/master/Documentation/play.PNG)
 
+## Application Logic
+![App Logic](https://github.com/tk-codes/checkers/blob/master/Documentation/app_logic.PNG)
+
