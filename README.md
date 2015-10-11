@@ -11,3 +11,35 @@ Peer-to-Peer Gaming with Java Networking (Socket Programming)
 
 ### Client
 ![Client Class Diagram](https://github.com/tk-codes/checkers/blob/master/Checkers%20-%20Client/doc/ClientSide.png)
+
+## How to get started
+###1. Server Configuration
+```
+Checkers - Server \resources\config.properties
+```
+set the TCP port
+```
+port = 50800
+```
+
+start the server application
+```
+Checkers - Server \src\ServerMain.java
+```
+
+###2. Client Configuration
+```
+Checkers - Client \resources\config.properties
+```
+set the server ip address and tcp port
+```
+server=127.0.0.1
+port=50800
+```
+
+start the client application
+```
+Checkers - Client \src\ClientMain.java
+```
+
+
