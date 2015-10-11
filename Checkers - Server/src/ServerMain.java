@@ -4,7 +4,7 @@ import javax.swing.JFrame;
  * Server Application -> Main
  * @author Keerthikan
  */
-public class Main {
+public class ServerMain {
 
 	public static void main(String[] args) {
 		

@@ -7,7 +7,7 @@ import View.BoardPanel;
  * 
  * Main
  */
-public class Main {
+public class ClientMain {
 	
 	public static void main(String[] args) {
 		ClientApp client = new ClientApp();
