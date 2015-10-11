@@ -41,5 +41,5 @@ start the client application
 ```
 Checkers - Client \src\ClientMain.java
 ```
-![Play](coming soon)
+![Play](https://github.com/tk-codes/checkers/blob/master/Documentation/play.PNG)
 
